@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MVVM/.vs/MVVM/v16/.suo
+/MVVM/MVVM/MVVM/obj
+/MVVM/MVVM/MVVM.Android/obj
+/MVVM/MVVM/MVVM.Android/Resources/Resource.designer.cs
+/MVVM/MVVM/MVVM.iOS/obj
+/MVVM/MVVM/MVVM.Android/MVVM.Android.csproj.user

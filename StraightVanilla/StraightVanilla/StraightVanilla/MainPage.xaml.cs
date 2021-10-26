@@ -8,7 +8,7 @@ using Xamarin.Forms;
 
 namespace StraightVanilla
 {
-    public partial class MainPage : ContentPage
+    public partial class MainPage : Shell
     {
         public MainPage()
         {
